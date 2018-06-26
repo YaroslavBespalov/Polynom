@@ -1,0 +1,5 @@
+/Users/yaroslav/Documents/xCodePrograms/CS-center/с++/Polynom/BespalovHW2Task2/build/CMakeFiles/rebuild_cache.dir
+/Users/yaroslav/Documents/xCodePrograms/CS-center/с++/Polynom/BespalovHW2Task2/build/CMakeFiles/edit_cache.dir
+/Users/yaroslav/Documents/xCodePrograms/CS-center/с++/Polynom/BespalovHW2Task2/build/CMakeFiles/Polynom_unittests.dir
+/Users/yaroslav/Documents/xCodePrograms/CS-center/с++/Polynom/BespalovHW2Task2/build/CMakeFiles/Polynom.dir
+/Users/yaroslav/Documents/xCodePrograms/CS-center/с++/Polynom/BespalovHW2Task2/build/CMakeFiles/Polynom_lib.dir

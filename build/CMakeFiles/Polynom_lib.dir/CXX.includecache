@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/yaroslav/Documents/xCodePrograms/CS-center/с++/Polynom/BespalovHW2Task2/src/Polynom.cpp
+Polynom.h
+/Users/yaroslav/Documents/xCodePrograms/CS-center/с++/Polynom/BespalovHW2Task2/src/Polynom.h
+
+/Users/yaroslav/Documents/xCodePrograms/CS-center/с++/Polynom/BespalovHW2Task2/src/Polynom.h
+iostream
+-
+deque
+-
+iterator
+-
+
